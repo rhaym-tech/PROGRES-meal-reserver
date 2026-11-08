@@ -1,0 +1,10 @@
+{
+  "username": "YOUR_STUDENT_ID",
+  "password": "YOUR_PASSWORD",
+  "depot": "123",
+  "offsets": [1, 2, 3],
+  "meals": [1, 2, 3],
+  "sign": true,
+  "timeout": 30,
+  "retries": 1
+}
